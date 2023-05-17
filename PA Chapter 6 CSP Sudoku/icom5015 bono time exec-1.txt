@@ -1,0 +1,91 @@
+Modo Terminal
+
+======================================================
+======================================================
+Dificultad Easy
+Round 1
+Time Execution in seconds
+libreria py-sudoku: 0.02668
+backtracking: 0.19858
+
+Round 2
+Time Execution in seconds
+libreria py-sudoku:0.05515
+backtracking:0.21850
+
+Round 3
+Time Execution in seconds
+libreria py-sudoku:0.02971
+backtracking:0.23442
+
+Round 4
+Time Execution in seconds
+libreria py-sudoku:0.01561
+backtracking:0.16391
+
+Round 5
+Time Execution in seconds
+libreria py-sudoku:0.04384
+backtracking:0.34994
+
+======================================================
+======================================================
+Dificultad Medium
+Round 1
+Time Execution in seconds
+libreria py-sudoku:0.03993
+backtracking:0.22615
+
+Round 2
+Time Execution in seconds
+libreria py-sudoku:0.16129
+backtracking:1.01359
+
+Round 3
+Time Execution in seconds
+libreria py-sudoku:0.09559
+backtracking:0.23818
+
+Round 4
+Time Execution in seconds
+libreria py-sudoku:0.04064
+backtracking:0.23399
+
+Round 5
+Time Execution in seconds
+libreria py-sudoku:0.07008
+backtracking:0.19673
+
+
+======================================================
+======================================================
+Dificultad Hard
+Round 1
+Time Execution in seconds
+libreria py-sudoku:0.08465
+backtracking:0.20736
+
+Round 2
+Time Execution in seconds
+libreria py-sudoku:0.15881
+backtracking:0.19252
+
+Round 3
+Time Execution in seconds
+libreria py-sudoku:0.06407
+backtracking:0.31512
+
+Round 4
+Time Execution in seconds
+libreria py-sudoku:0.06984
+backtracking:0.14919
+
+Round 5
+Time Execution in seconds
+libreria py-sudoku:0.12221
+backtracking:0.19913
+
+======================================================
+======================================================
+
+avg time for each difficult
