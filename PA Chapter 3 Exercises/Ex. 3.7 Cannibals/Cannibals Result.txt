@@ -1,0 +1,29 @@
+Initial State:
+Missionaries Left:  3 Cannibals Left:  3 | Missionaries on boat: 0 Cannibals on boat: 0 | Missionaries Right:  0 Cannibals Right:  0 | Boat Pos:  left
+Step: 1 
+Missionaries Left:  3 Cannibals Left:  1 | Missionaries on boat: 0 Cannibals on boat: 2 | Missionaries Right:  0 Cannibals Right:  2 | Boat Pos:  right
+Step: 2 
+Missionaries Left:  3 Cannibals Left:  2 | Missionaries on boat: 0 Cannibals on boat: 1 | Missionaries Right:  0 Cannibals Right:  1 | Boat Pos:  left
+Step: 3 
+Missionaries Left:  3 Cannibals Left:  0 | Missionaries on boat: 0 Cannibals on boat: 2 | Missionaries Right:  0 Cannibals Right:  3 | Boat Pos:  right
+Step: 4 
+Missionaries Left:  3 Cannibals Left:  1 | Missionaries on boat: 0 Cannibals on boat: 1 | Missionaries Right:  0 Cannibals Right:  2 | Boat Pos:  left
+Step: 5 
+Missionaries Left:  1 Cannibals Left:  1 | Missionaries on boat: 2 Cannibals on boat: 0 | Missionaries Right:  2 Cannibals Right:  2 | Boat Pos:  right
+Step: 6 
+Missionaries Left:  2 Cannibals Left:  2 | Missionaries on boat: 1 Cannibals on boat: 1 | Missionaries Right:  1 Cannibals Right:  1 | Boat Pos:  left
+Step: 7 
+Missionaries Left:  0 Cannibals Left:  2 | Missionaries on boat: 2 Cannibals on boat: 0 | Missionaries Right:  3 Cannibals Right:  1 | Boat Pos:  right
+Step: 8 
+Missionaries Left:  0 Cannibals Left:  3 | Missionaries on boat: 0 Cannibals on boat: 1 | Missionaries Right:  3 Cannibals Right:  0 | Boat Pos:  left
+Step: 9 
+Missionaries Left:  0 Cannibals Left:  1 | Missionaries on boat: 0 Cannibals on boat: 2 | Missionaries Right:  3 Cannibals Right:  2 | Boat Pos:  right
+Step: 10 
+Missionaries Left:  1 Cannibals Left:  1 | Missionaries on boat: 1 Cannibals on boat: 0 | Missionaries Right:  2 Cannibals Right:  2 | Boat Pos:  left
+Step: 11 
+Missionaries Left:  0 Cannibals Left:  0 | Missionaries on boat: 1 Cannibals on boat: 1 | Missionaries Right:  3 Cannibals Right:  3 | Boat Pos:  right
+
+
+Execution time:  0.00010180473327636719
+Performance measure:  15
+
